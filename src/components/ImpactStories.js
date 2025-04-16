@@ -73,7 +73,7 @@ export default function ImpactStories() {
           
           <div className="mt-12 text-center">
             <h3 className="text-2xl font-bold text-teal-700 mb-4">Have a Success Story?</h3>
-            <p className="text-gray-600 mb-6">We'd love to hear how you've helped make your community more pet-friendly!</p>
+            <p className="text-gray-600 mb-6">We&rsquo;d love to hear how you&rsquo;ve helped make your community more pet-friendly!</p>
             <button className="bg-teal-600 hover:bg-teal-700 text-white font-bold py-2 px-6 rounded-full transition-colors">
               Share Your Story
             </button>
