@@ -48,7 +48,7 @@ export default function VolunteerForm() {
       {isSubmitted ? (
         <div className="bg-green-100 border border-green-400 text-green-700 px-4 py-3 rounded relative mb-6" role="alert">
           <strong className="font-bold">Thank you for volunteering!</strong>
-          <p className="block sm:inline"> We'll be in touch soon about how you can help make our city more pet-friendly.</p>
+          <p className="block sm:inline"> We&rsquo;ll be in touch soon about how you can help make our city more pet-friendly.</p>
         </div>
       ) : null}
       

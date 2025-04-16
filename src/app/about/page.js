@@ -17,7 +17,7 @@ export default function AboutPage() {
               <h3 className="text-2xl font-bold mb-6 text-teal-700">The Pet-Friendly City Initiative</h3>
               
               <p className="text-gray-700 mb-6">
-                The "Pet-Friendly City" (PFC) initiative by CollegeTips.in is a nationwide campaign aimed at transforming 
+                The Pet-Friendly City (PFC) initiative by CollegeTips.in is a nationwide campaign aimed at transforming 
                 Indian cities into safe, welcoming environments for pets and stray animals.
               </p>
               

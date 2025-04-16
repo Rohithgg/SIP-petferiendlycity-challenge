@@ -1,7 +1,7 @@
-import ImpactStories from "../../components/ImpactStories";
-import Header from "../../components/Header";
-import Footer from "../../components/Footer";
-import PawBuddy from "../../components/PawBuddy";
+import ImpactStories from '../../components/ImpactStories';
+import Header from '../../components/Header';
+import Footer from '../../components/Footer';
+import PawBuddy from '../../components/PawBuddy';
 
 export default function StoriesPage() {
   return (
